@@ -6,3 +6,7 @@ Before we continue, note that Hooks are:
 Completely opt-in. You can try Hooks in a few components without rewriting any existing code. But you don’t have to learn or use Hooks right now if you don’t want to.
 100% backwards-compatible. Hooks don’t contain any breaking changes.
 Available now. Hooks are now available with the release of v16.8.0.
+
+Motivation
+Hooks solve a wide variety of seemingly unconnected problems in React that we’ve encountered over five years of writing and maintaining tens of thousands of components. Whether you’re learning React, use it daily, or even prefer a different library with a similar component model, you might recognize some of these problems.
+
